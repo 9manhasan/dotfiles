@@ -1,0 +1,28 @@
+#Terminal Configuration
+
+# Font settings
+font-family = BerkeleyMono Nerd Font
+# font-family = Iosevka Nerd Font
+# font-family = SFMono Nerd Font
+font-size = 16
+
+# Theme and shell integration
+theme = catppuccin-frappe
+shell-integration-features = no-cursor,sudo,no-title
+cursor-style = block
+adjust-cell-height = 35%
+
+# Mouse settings
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+
+# Window settings
+window-padding-balance = true
+window-save-state = always
+macos-titlebar-style = transparent
+window-colorspace = "display-p3"
+background = 000000
+foreground = d4be98
+
+# Other settings
+copy-on-select = clipboard
